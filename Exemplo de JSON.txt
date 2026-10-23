@@ -1,0 +1,10 @@
+Exemplo de JSON para cadastrar um jogo:
+
+{
+  "title": "The Last of Us",
+  "year": 2013,
+  "price": 99.90,
+  "platform": "PlayStation 3",
+  "genre": "Ação/Aventura",
+  "rating": "18+"
+}
